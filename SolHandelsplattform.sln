@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlackFriday", "BlackFriday\BlackFriday.csproj", "{55A97260-70B7-490A-9578-7BFC58C9B3D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IEGEasyCreditCardService", "IEGEasyCreditCardService\IEGEasyCreditCardService.csproj", "{2E7B89A5-C69E-4D82-AD7F-25F49789B557}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Products", "Products\Products.csproj", "{C3C17E46-5E30-45FE-B71B-55D85DA7CB65}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductsLocalDatastore", "ProductsLocalDatastore\ProductsLocalDatastore.csproj", "{A225FC1C-ACBE-4E61-BCA1-59280BF65412}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaymentService", "PaymentService\PaymentService.csproj", "{FD6E6B72-585D-4516-82E0-C9A2F9DE08ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHookPaypal", "WebHookPaypal\WebHookPaypal.csproj", "{10E2D16A-CEB1-4A8B-8B2A-A5B232BABF28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55A97260-70B7-490A-9578-7BFC58C9B3D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A97260-70B7-490A-9578-7BFC58C9B3D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A97260-70B7-490A-9578-7BFC58C9B3D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A97260-70B7-490A-9578-7BFC58C9B3D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E7B89A5-C69E-4D82-AD7F-25F49789B557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E7B89A5-C69E-4D82-AD7F-25F49789B557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E7B89A5-C69E-4D82-AD7F-25F49789B557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E7B89A5-C69E-4D82-AD7F-25F49789B557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3C17E46-5E30-45FE-B71B-55D85DA7CB65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3C17E46-5E30-45FE-B71B-55D85DA7CB65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3C17E46-5E30-45FE-B71B-55D85DA7CB65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3C17E46-5E30-45FE-B71B-55D85DA7CB65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A225FC1C-ACBE-4E61-BCA1-59280BF65412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A225FC1C-ACBE-4E61-BCA1-59280BF65412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A225FC1C-ACBE-4E61-BCA1-59280BF65412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A225FC1C-ACBE-4E61-BCA1-59280BF65412}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD6E6B72-585D-4516-82E0-C9A2F9DE08ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6E6B72-585D-4516-82E0-C9A2F9DE08ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD6E6B72-585D-4516-82E0-C9A2F9DE08ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD6E6B72-585D-4516-82E0-C9A2F9DE08ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10E2D16A-CEB1-4A8B-8B2A-A5B232BABF28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E2D16A-CEB1-4A8B-8B2A-A5B232BABF28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E2D16A-CEB1-4A8B-8B2A-A5B232BABF28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E2D16A-CEB1-4A8B-8B2A-A5B232BABF28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C31E0F8-78F5-4233-9E5F-B8C28EE63861}
+	EndGlobalSection
+EndGlobal
